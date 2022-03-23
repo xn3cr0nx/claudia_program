@@ -10,3 +10,7 @@ Follow the instructions below
 6. remove the copy.txt file
 7. make a copy of the first folder and call it second
 8. delete the second folder
+
+
+
+![answer1](/01_linux/assets/answer1.png)
