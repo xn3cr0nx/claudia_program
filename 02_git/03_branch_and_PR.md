@@ -3,7 +3,7 @@
 0. Pull remote changes to be sure you are synced with remote origin
 1. create a new branch from origin/main named `branch-and-PR`
 2. Paste "this time I have to ask for permission" in the line below after `>>`
->>
+>>this time I have to ask for permission
 3. Commit the change above with commit message "to get my changes merged"
 4. Paste the commit hash from previous in line below after `>>`
 >> 
