@@ -6,7 +6,7 @@
 >>I got lost in a forest full of branches
 3. Commit the change above with commit message "but I'm going to merge them"
 4. Paste the commit hash from previous in line below after `>>`
->> 
+>> 503f0638381e9636ebd494020c297786073b27da
 5. Commit the change above with commit message "and I'm going to prove it"
 6. Push the new branch `branch-and-merge` to remote
 7. Merge the new branch `branch-and-merge` into main
