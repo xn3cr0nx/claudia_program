@@ -6,7 +6,7 @@
 >>this time I have to ask for permission
 3. Commit the change above with commit message "to get my changes merged"
 4. Paste the commit hash from previous in line below after `>>`
->> 
+>> 66c810a9e2f98f90321cfb8b692333376bc2da63
 5. Commit the change above with commit message "always the same process"
 6. Push the new branch `branch-and-PR` to remote
 7. Open a new PR from `branch-and-PR` to `main`
