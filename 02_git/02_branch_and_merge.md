@@ -3,7 +3,7 @@
 0. Pull remote changes to be sure you are synced with remote origin
 1. create a new branch from origin/main named `branch-and-merge`
 2. Paste "I got lost in a forest full of branches" in the line below after `>>`
->>
+>>I got lost in a forest full of branches
 3. Commit the change above with commit message "but I'm going to merge them"
 4. Paste the commit hash from previous in line below after `>>`
 >> 
