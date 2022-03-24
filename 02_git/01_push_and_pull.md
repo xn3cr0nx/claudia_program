@@ -2,7 +2,7 @@
 
 0. Pull remote changes to be sure you are synced with remote origin
 1. Paste "trying to get git but prolly it will get me" in the line below after `>>`
->>
+>>"trying to get git but prolly it will get me"
 2. Commit the change above with commit message "git joke"
 3. Paste the commit hash from previous in line below after `>>`
 >>
