@@ -3,7 +3,7 @@
 0. Pull remote changes to be sure you are synced with remote origin
 1. create a new branch from origin/main named `fork-and-PR`
 2. Paste "I did prefer branches now" in the line below after `>>`
->>
+>>I did prefer branches now
 3. Commit the change above with commit message "it can always get worse"
 4. Paste the commit hash from previous in line below after `>>`
 >> 
